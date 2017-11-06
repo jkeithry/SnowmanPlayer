@@ -1,2 +1,2 @@
 # SnowmanPlayer
-DGesses words picked by SnowmanRunner
+Guesses words picked by SnowmanRunner
